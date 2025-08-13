@@ -1,5 +1,5 @@
-# arenero-menu
-Hola este un repositorio de ejemplo
+# Descripción:
+Este proyecto tiene la finalidad de hacer un repaso de los principales comandos de UNIX y además comprobar la configuración y gestión de un repositorio de Git. Siendo GitHub la plataforma que albergará el repositorio central.
 
 
 ## DATOS DEL ALUMNO
